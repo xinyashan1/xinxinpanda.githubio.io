@@ -1,2 +1,2 @@
-# xinxinpanda.githubio.io
-SCSS Portfolio -Will add new projects later on as well! 
+# https://xinyashan1.github.io/xinxinpanda.githubio.io/
+SCSS Portfolio -ID card theme!! 
